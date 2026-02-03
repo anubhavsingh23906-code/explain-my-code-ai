@@ -12,9 +12,3 @@ explain-my-code-ai
 │
 ├── requirements.md
 └── design.md
-BACKEND (FastAPI)
-📄 backend/requirements.txt
-fastapi
-uvicorn
-openai
-python-dotenv
