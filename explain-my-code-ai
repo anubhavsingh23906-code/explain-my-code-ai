@@ -1,0 +1,14 @@
+explain-my-code-ai
+│
+├── backend
+│   ├── main.py
+│   ├── ai_engine.py
+│   └── requirements.txt
+│
+├── frontend
+│   ├── index.html
+│   ├── style.css
+│   └── script.js
+│
+├── requirements.md
+└── design.md
